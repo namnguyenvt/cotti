@@ -1,0 +1,169 @@
+Ingredient list
+
+milk:
+- Full Cream Milk (Pure Milk)
+- Coconut Milk
+- Oat Milk
+- Rice Milk
+
+sugar:
+- Original Sugar
+- Blue Sugar
+- Vanilla Sugar
+- Brown Sugar
+
+toppings
+- Original Boba (White Pearl)
+- Brown Sugar Boba
+- Waterchestnut Boba
+
+syrup:
+- Red Grapefruit
+- White Grapefruit
+- Orange
+- Passion Fruit
+
+coffee bean:
+- Sirius Coffee Bean
+- Comet Coffee Bean
+
+tea:
+- Oolong Tea
+- Jasmine Tea
+
+powder:
+- Matcha Powder
+- Chocolate Powder
+
+others:
+- Coconut Water
+- Sparkling water
+- Companion (Coffee Mate)
+
+* Formula
+------------------
+Brown Sugar Latte: 
+
+Brown Sugar:
+Full: 20ml
+Half: 10ml
+
+Pure Milk: 250ml
+
+D-shot (Sirius): 17g
+------------------ 
+Brown Sugar Oat Latte: 
+
+Brown Sugar:
+Full: 20ml
+Half: 10ml
+
+Oat Milk: 250ml
+
+D-shot (Sirius): 17g
+------------------
+Brown Sugar Oat Milk: 
+
+Brown Sugar Oolong Oat Latte: 
+ 
+Cafe Latte: 
+ 
+Cappuccino: 
+ 
+Chocolate: 
+ 
+Chocolate Frappe: 
+ 
+Coconut Americano 
+
+Coco Jasmine Milk Tea: 
+ 
+Coco Oolong Milk Tea: 
+ 
+Coco Pearl: 
+ 
+Coconut Dirty: 
+ 
+Coconut Latte: 
+ 
+Crema Cotti: 
+ 
+Extra Shot Long Black (Dark Roast): 
+ 
+Extra Shot Long Black (Medium Roast): 
+ 
+Flat White: 
+ 
+Long Black (Dark Roast): 
+ 
+Long Black (Medium Roast): 
+ 
+Matcha Jasmine Frappe 
+ 
+Matcha Coconut Latte 
+ 
+Matcha Latte 
+ 
+Matcha Oat Latte 
+ 
+Matcha Rice Latte 
+ 
+Mocha 
+ 
+Mocha Frappe 
+ 
+Oat Latte 
+ 
+Oolong Milk Tea 
+ 
+Oolong Rice Milk Tea 
+ 
+Pampas Blue Coconut Frappe 
+ 
+Pampas Blue Jasmine Crema Cotti 
+ 
+Pampas Blue Coconut Latte 
+ 
+Rice Milk Latte - Coco 
+ 
+Rice Milk Latte - Original 
+ 
+Rich Milk 
+ 
+Stardust Crema Cotti 
+ 
+Stardust Oat Latte 
+ 
+Stardust Oolong Milk Tea 
+ 
+Vanilla Latte 
+ 
+Ice Shaken Red Grapefruit Tea: 
+ 
+Ice Shaken White Grapefruit Tea: 
+ 
+White Grapefruit Americano 
+ 
+Red Grapefruit Americano 
+ 
+White Grapefruit Sparkling Cold Brew 
+ 
+Red Grapefruit Sparkling Cold Brew 
+ 
+White Grapefruit Jasmine Frappe 
+ 
+Red Grapefruit Jasmine Frappe 
+ 
+Orange Americano: 
+ 
+Orange Sparkling Cold Brew: 
+ 
+Ice Shaken Orange Tea: 
+ 
+Orange Jasmine Frappe: 
+ 
+Passion Fruit and White Grapefruit Tea: 
+ 
+Passion Fruit and Red Grapefruit Tea: 
+    
+Passion Fruit and White Grapefruit Frappe: 
