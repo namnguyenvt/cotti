@@ -145,11 +145,34 @@ Flat White:
 Long Black (Dark Roast): 
  
 Long Black (Medium Roast): 
- 
+
+----------------------
 Matcha Jasmine Frappe 
- 
+
+Jasmine Tea: 100ml
+
+Companion (Coffee Mate): 30ml
+
+Matcha: 50ml
+
+Original Sugar: 30ml
+
+With Cream: 50g
+No Cream: 0g
+----------------------
 Matcha Coconut Latte 
- 
+
+Original Sugar:
+Full: 10ml
+Half: 5ml
+No Extra Sugar: 0ml
+
+Coconut Milk: 150ml
+
+Pure Milk: 100ml
+
+Matcha: 50ml
+----------------------
 Matcha Latte 
  
 Matcha Oat Latte 
