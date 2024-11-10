@@ -1,45 +1,3 @@
-Ingredient list
-
-milk:
-- Full Cream Milk (Pure Milk)
-- Coconut Milk
-- Oat Milk
-- Rice Milk
-
-sugar:
-- Original Sugar
-- Blue Sugar
-- Vanilla Sugar
-- Brown Sugar
-
-toppings
-- Original Boba (White Pearl)
-- Brown Sugar Boba
-- Waterchestnut Boba
-
-syrup:
-- Red Grapefruit
-- White Grapefruit
-- Orange
-- Passion Fruit
-
-coffee bean:
-- Sirius Coffee Bean
-- Comet Coffee Bean
-
-tea:
-- Oolong Tea
-- Jasmine Tea
-
-powder:
-- Matcha Powder
-- Chocolate Powder
-
-others:
-- Coconut Water
-- Sparkling water
-- Companion (Coffee Mate)
-
 * Formula
 ------------------
 Brown Sugar Latte: 
@@ -62,30 +20,101 @@ Oat Milk: 250ml
 
 D-shot (Sirius): 17g
 ------------------
-Brown Sugar Oat Milk: 
-
 Brown Sugar Oolong Oat Latte: 
- 
+
+Brown Sugar: 30ml
+
+Oolong: 150ml
+Oat Milk: 100ml
+
+D-shot (Sirius): 17g
+------------------ 
 Cafe Latte: 
- 
+
+Original Sugar:
+Full: 20ml
+Half: 10ml
+No Extra Sugar: 0ml
+
+Pure Milk: 250ml
+
+D-shot (Sirius): 17g
+-------------------
 Cappuccino: 
- 
+
+-------------------
 Chocolate: 
+
+Chocolate: 100ml
+Pure Milk: 150ml
  
 Chocolate Frappe: 
- 
-Coconut Americano 
 
+Pure Milk: 150ml
+Chocolate: 100ml
+
+Original Sugar: 10ml
+
+With Cream: 50g
+No Cream: 0g
+--------------------
+Coconut Americano:
+
+Original Sugar:
+Full: 20ml
+Half: 10ml
+No Extra Sugar: 0ml
+
+Coconut Water: 250ml
+
+D-shot (Sirius): 
+
+--------------------
 Coco Jasmine Milk Tea: 
- 
+
+Original Sugar:
+Full: 20ml
+Haf: 10ml
+
+Jasmine Tea: 150ml
+
+Coconut Milk: 100ml
+
+Pure Milk: 50ml
+---------------------
 Coco Oolong Milk Tea: 
- 
+
+Original Sugar:
+Full: 20ml
+Haf: 10ml
+
+Oolong Tea: 150ml
+
+Coconut Milk: 100ml
+
+Pure Milk: 50ml
+--------------------- 
 Coco Pearl: 
- 
+
+Water Chestnut: 50g (in cup)
+No toppings: 0g
+
+Shaker: 
+Original Sugar:
+Full: 20ml
+Half: 10ml
+No extra Sugar: 0ml
+
+Coconut Water: 250ml
+---------------------
 Coconut Dirty: 
- 
+
+Coconut Milk: 300ml
+
+D-shot (Sirius): 17g
+---------------------
 Coconut Latte: 
- 
+
 Crema Cotti: 
  
 Extra Shot Long Black (Dark Roast): 

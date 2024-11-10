@@ -1,0 +1,41 @@
+Ingredient list
+
+milk:
+- Full Cream Milk (Pure Milk)
+- Coconut Milk
+- Oat Milk
+- Rice Milk
+
+sugar:
+- Original Sugar
+- Blue Sugar
+- Vanilla Sugar
+- Brown Sugar
+
+toppings
+- Original Boba (White Pearl)
+- Brown Sugar Boba
+- Waterchestnut Boba
+
+syrup:
+- Red Grapefruit
+- White Grapefruit
+- Orange
+- Passion Fruit
+
+coffee bean:
+- Sirius Coffee Bean
+- Comet Coffee Bean
+
+tea:
+- Oolong Tea
+- Jasmine Tea
+
+powder:
+- Matcha Powder
+- Chocolate Powder
+
+others:
+- Coconut Water
+- Sparkling water
+- Companion (Coffee Mate)
