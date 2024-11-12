@@ -174,11 +174,35 @@ Pure Milk: 100ml
 Matcha: 50ml
 ----------------------
 Matcha Latte 
- 
+
+Vanilla Sugar:
+Full: 10ml
+Half: 5ml
+
+Pure Milk: 250ml
+
+Matcha: 50ml
+----------------------
 Matcha Oat Latte 
- 
+
+Vanilla Sugar:
+Full: 10ml
+Half: 5ml
+
+Oat Milk: 250ml
+
+Matcha: 50ml
+----------------------
 Matcha Rice Latte 
- 
+
+Original Sugar:
+Full: 10ml
+Half: 5ml
+
+Rice Milk: 250ml
+
+Matcha: 50ml
+----------------------
 Mocha 
  
 Mocha Frappe 
