@@ -41,13 +41,24 @@ let companion = 0;
 // Calculate drinks
 document.addEventListener('DOMContentLoaded', function() {
     let calculateButton = document.getElementById('btn1');
+    let deleteButton = document.getElementById('btn2');
 
+    let brownSugarLatteColdElement = 0;
     calculateButton.addEventListener('click', function() {
-        let brownSugarLatteColdElement = document.getElementById('brownSugarLatteCold');
-        let brownSugarLatteCold = brownSugarLatteColdElement ? brownSugarLatteColdElement.value : null;
+        brownSugarLatteColdElement = parseInt(document.getElementById('brownSugarLatteCold').value) || 0;
 
-        pureMilk += brownSugarLatteCold * 210;
+        pureMilk = brownSugarLatteColdElement * 210;
         console.log(pureMilk);
+    });
+
+    deleteButton.addEventListener('click', function() {
+        document.getElementById('brownSugarLatteCold').value = '';
+
+        brownSugarLatteColdElement = 0;
+        pureMilk = 0;
+
+        console.log("Value Reset");
+        console.log('pureMilk: ', pureMilk);
     });
 });
 
