@@ -1,3 +1,16 @@
-.typeDrink {
-    margin: auto;
+
+.container {
+    display: flex;
+    width: 100%;
+    border: 1px solid black;
 }
+
+.left-side {
+    flex: 1;
+    background-color: lightblue;
+}
+
+.right-side {
+    flex: 1;
+}
+
