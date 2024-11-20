@@ -45,6 +45,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
     let brownSugarLatteColdElement = 0;
     calculateButton.addEventListener('click', function() {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        })
+
         brownSugarLatteColdElement = parseInt(document.getElementById('brownSugarLatteCold').value) || 0;
 
         pureMilk = brownSugarLatteColdElement * 210;
@@ -54,6 +59,11 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     deleteButton.addEventListener('click', function() {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        })
+        
         document.getElementById('brownSugarLatteCold').value = '';
 
         brownSugarLatteColdElement = 0; 

@@ -18,6 +18,7 @@
 }
 
 #searchBox {
+    background-image: url('image/icons8-search-48.png'); /* Add a search icon to input */
     background-repeat: no-repeat; /* Do not repeat the icon image */
     width: 100%; /* Full-width */
     font-size: 16px; /* Increase font-size */
