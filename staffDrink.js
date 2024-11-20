@@ -49,16 +49,90 @@ document.addEventListener('DOMContentLoaded', function() {
 
         pureMilk = brownSugarLatteColdElement * 210;
         console.log(pureMilk);
+
+        document.getElementById("pureMilk").value = pureMilk;
     });
 
     deleteButton.addEventListener('click', function() {
         document.getElementById('brownSugarLatteCold').value = '';
 
-        brownSugarLatteColdElement = 0;
-        pureMilk = 0;
+        brownSugarLatteColdElement = 0; 
 
-        console.log("Value Reset");
-        console.log('pureMilk: ', pureMilk);
+        // Reset value of ingredient to 0
+        pureMilk = 0;
+        coconutMilk = 0;
+        oatMilk = 0;
+        riceMilk = 0;
+        originalSugar = 0;
+        blueSugar = 0;
+        vanillaSugar = 0;
+        brownSugar = 0;
+        originalBoba = 0;
+        brownBoba = 0;
+        waterChestnut = 0;
+        redGrapefruit = 0;
+        whiteGrapefruit = 0;
+        orange = 0;
+        passionFruit = 0;
+        siriusBean = 0;
+        cometBean = 0;
+        Oolong = 0;
+        Jasmine = 0;
+        matchaPowder = 0;
+        cocoaPowder = 0;
+        coconutWater = 0;
+        sparklingWater = 0;
+        companion = 0;
+
+        document.getElementById("pureMilk").value = pureMilk;
+        document.getElementById("coconutMilk").value = coconutMilk;
+        document.getElementById("oatMilk").value = oatMilk;
+        document.getElementById("riceMilk").value = riceMilk;
+        document.getElementById("originalSugar").value = originalSugar;
+        document.getElementById("blueSugar").value = blueSugar;
+        document.getElementById("vanillaSugar").value = vanillaSugar;
+        document.getElementById("brownSugar").value = brownSugar;
+        document.getElementById("originalBoba").value = originalBoba;
+        document.getElementById("brownBoba").value = brownBoba;
+        document.getElementById("waterchestnut").value = waterChestnut;
+        document.getElementById("redGrapefruit").value = redGrapefruit;
+        document.getElementById("whiteGrapefruit").value = whiteGrapefruit;
+        document.getElementById("orange").value = orange;
+        document.getElementById("passionfruit").value = passionFruit;
+        document.getElementById("sirius").value = siriusBean;
+        document.getElementById("comet").value = cometBean;
+        document.getElementById("Oolong").value = Oolong;
+        document.getElementById("Jasmine").value = Jasmine;
+        document.getElementById("matcha").value = matchaPowder;
+        document.getElementById("cocoa").value = cocoaPowder;
+        document.getElementById("coconutWater").value = coconutWater;
+        document.getElementById("sparkling").value = sparklingWater;
+        document.getElementById("companion").value = companion;
+
+        const ingredientList = [pureMilk, coconutMilk, oatMilk, riceMilk, 
+                                originalSugar, brownSugar, blueSugar, vanillaSugar,
+                                originalBoba, brownBoba, waterChestnut, 
+                                redGrapefruit, whiteGrapefruit, orange, passionFruit,
+                                siriusBean, cometBean,
+                                Oolong, Jasmine,
+                                matchaPowder, cocoaPowder,
+                                coconutWater, sparklingWater, companion
+        ]
+
+        const ingredientListString = ['pureMilk', 'coconutMilk', 'oatMilk', 'riceMilk', 
+                                      'originalSugar', 'brownSugar', 'blueSugar', 'vanillaSugar',
+                                      'originalBoba', 'brownBoba', 'waterChestnut', 
+                                      'redGrapefruit', 'whiteGrapefruit', 'orange', 'passionFruit',
+                                      'siriusBean', 'cometBean',
+                                      'Oolong', 'Jasmine',
+                                      'matchaPowder', 'cocoaPowder',
+                                      'coconutWater', 'sparklingWater', 'companion'
+]
+
+        for (let i = 0, j = 0; i < ingredientList.length, j < ingredientList.length; i++, j++) {
+            console.log("Value Reset");
+            console.log(ingredientListString[j], ingredientList[i]);
+        }
     });
 });
 
