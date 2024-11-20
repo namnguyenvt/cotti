@@ -1,6 +1,6 @@
 # cotti
 
-Author: Nam Nguyen, Nguyen Tran Quang, Nguyen Hoang Minh
+Author: Nam Nguyen
 Project start: 28th October 2024
 
 Content:
