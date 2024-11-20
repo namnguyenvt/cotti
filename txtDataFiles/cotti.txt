@@ -1,0 +1,379 @@
+Brown sugar latte
+Hot
+*brown sugar 20/10
+*milk 350
+*sirius 17
+Cold
+*brown sugar 20/10
+*milk 250
+*sirius 17
+
+Brown sugar oat latte
+Hot
+*brown sugar 20/10
+*oat m 350
+*sirius 15
+Cold
+*brown sugar 20/10
+*oat m 350
+*sirius 15
+
+Brown sugar oat milk
+Hot
+*brown sugar 20/10
+*oat m 400
+
+Brown sugar oolong oat latte
+Cold
+*brown sugar 30
+*oat m 150
+*oolong 3
+*sirius 15
+
+Cafe latte
+Hot
+*original sugar 20/10/0
+*milk 350
+*sirius 17
+Cold
+*original sugar 20/10/0
+*milk 250
+*sirius 17
+
+Cappuccino
+Hot
+*original sugar 20/10/0
+*milk 300
+*sirius 17
+
+Chocolate
+Hot
+*milk 300
+*chocolate 50
+Cold
+*milk 150
+*chocolate 50
+
+Chocolate frappe
+Cold
+*original sugar 10
+*milk 150
+*chocolate 50
+
+Coco jasmine milk tea
+Hot
+*original sugar 20/10
+*milk 50
+*coco m 150
+*jasmine 8
+Cold
+*original sugar 20/10
+*milk 50
+*coco m 100
+*jasmine 6
+
+Coco oolong milk tea
+Hot
+*original sugar 20/10
+*milk 50
+*coco m 150
+*oolong 6
+Cold
+*original sugar 20/10
+*milk 50
+*coco m 100
+*oolong 5
+
+Coco pearl
+Cold
+*original sugar 20/10/0
+*coco w 250
+*pearl 50
+
+Coconut cold brew
+Cold
+*original sugar 20/10/0
+*coco w 250
+*sirius 15
+
+Coconut dirty
+Cold
+*coco m 360
+*sirius 15
+
+Coconut latte
+Hot
+*original sugar 10/5/0
+*coco m 250
+*sirius 15
+Cold
+*original sugar 10/5/0
+*coco m 250
+*sirius 15
+
+Crema cotti
+Hot
+*original sugar 15/10/0
+*milk 300
+*companion 50 
+*sirius 15
+Cold
+*original sugar 15/10/0
+*milk 200
+*companion 50
+*sirius 15
+
+Extra shot long black (dark roast)
+Hot
+*original sugar 20/10/0
+(*milk 60)
+*sirius 22
+Cold
+*original sugar 20/10/0
+(*milk 60)
+*sirius 22
+
+Extra shot long black (medium roast)
+Hot
+*original sugar 20/10/0
+(*milk 60)
+*comet 22
+Cold
+*original sugar 20/10/0
+(*milk 60)
+*comet 22
+
+Flat white
+Hot
+*original sugar 20/10/0
+*milk 400
+*sirius 17
+
+Grapefruit jasmine frappe
+Cold
+*original sugar 10/0
+*jasmine 4
+*red grapefruit 50 / white grapefruit 100
+(*white boba 50)
+
+Grapefruit sparkling cold brew
+Red
+*original sugar 10/5/0
+*sparkling 200
+*red grapefruit 50
+*sirius 15
+White
+*original sugar 10/5/0
+*sparkling 175
+*white grapefruit 75
+*sirius 15
+
+Ice shaken grapeftuit tea
+Red
+*original sugar 10/5/0
+*jasmine 4
+*red grapefruit 50
+(*white boba 50)
+White
+*original sugar 10/5/0
+*jasmine 4
+*white grapefruit 75
+(*white boba 50)
+
+Long black (dark roast)
+Hot/Cold
+*original sugar 20/10/0
+*sirius 20
+
+Long black (medium roast)
+Hot/Cold
+*original sugar 20/10/0
+*comet 20
+
+Matcha coco latte
+Hot
+*original sugar 10/5/0
+*coco m 200
+*milk 150
+*matcha 5
+Cold
+*original sugar 10/5/0
+*coco m 150
+*milk 100
+*matcha 5
+
+Matcha jasmine frappe
+Cold
+*original sugar 30
+*jasmine 4
+*companion 30
+*matcha 5
+
+Matcha latte
+Hot
+*vanilla sugar 10/5/0
+*milk 350
+*matcha 5
+Cold
+*vanilla sugar 10/5/0
+*milk 250
+*matcha 5
+
+Matcha oat latte
+Hot
+*vanilla sugar 10/5/0
+*oat m 350
+*matcha 5
+Cold
+*vanilla sugar 10/5/0
+*oat m 250
+*matcha 5
+
+Matcha rice milk latte
+Hot
+*original sugar 10/5/0
+*rice m 350
+*matcha 5
+Cold
+*original sugar 10/5/0
+*rice m 250
+*matcha 5
+
+Mocha
+Hot
+*original sugar 10
+*choco 25
+*milk 320
+*sirius 15
+Cold
+*original sugar 10
+*choco 25
+*milk 270
+*sirius 15
+
+Mocha frappe
+Cold
+*original sugar 20
+*choco 25
+*companion 50
+*sirius 15
+
+Oat latte
+Hot
+*original sugar 20/10/0
+*oat m 350
+*sirius 15
+Cold
+*original sugar 20/10/0
+*oat m 250
+*sirius 15
+
+Oolong milk tea
+Hot
+*original sugar 30/25/0
+*oolong 6
+*milk 50
+*companion 30
+Cold
+*original sugar 30/25/0
+*oolong 8
+*milk 100
+*companion 30
+
+Oolong rice milk tea
+Hot
+*original sugar 20/10
+*rice m 250
+*oolong 3
+Cold
+*original sugar 20/10
+*rice m 150
+*oolong 3
+
+Pampas blue coconut frappe
+Cold
+*blue sugar 15
+(*orginal sugar 10)
+*coco m 200
+(*cream 50)
+(*white boba 50)
+
+Pampas blue jasmine crema cotti
+Cold
+*blue sugar 20/15
+*jasmine 6
+*companion 100
+*sirius 15
+
+Pampas blue coconut latte
+Cold
+*blue sugar 20/15
+*milk 100
+*coco m 150
+*sirius 15
+
+Rice milk latte - coco
+Hot
+*original sugar 10/5/0
+*coco m 150
+*rice m 200
+*sirius 15
+Cold
+*original sugar 10/5/0
+*coco m 100
+*rice m 150
+*sirius 15
+
+Rice milk latte - original
+Hot
+*original sugar 10/5/0
+*rice m 350
+*sirius 15
+Cold
+*original sugar 10/5/0
+*rice m 250
+*sirius 15
+
+Rich milk
+Hot/Cold
+*original sugar 20/10/0
+*milk 450
+
+Stardust crema cotti
+Cold
+*brown sugar 20/10
+*brown boba 50
+*milk 200
+*companion 50
+*sirius 15
+
+Stardust oat latte
+Cold
+*brown sugar 20/10
+*brown boba 50
+*oat m 250
+*sirius 15
+
+Stardust oolong milk tea
+Hot
+*original sugar 20/10
+*brown boba 50
+*oolong 6
+*companion 100
+*milk 100
+Cold
+*original sugar 20/10
+*brown boba 50
+*oolong 3
+*companion 100
+*milk 50
+
+Vanilla latte
+Hot
+*vanilla sugar 20/10/0
+*milk 350
+*sirius 17
+Cold
+*vanilla sugar 20/10/0
+*milk 250
+*sirius 17
