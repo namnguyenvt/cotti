@@ -1,5 +1,5 @@
 // Milk
-var pureMilk = 0;
+let pureMilk = 0;
 let riceMilk = 0;
 let oatMilk = 0;
 let coconutMilk = 0;
