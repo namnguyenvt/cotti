@@ -50,12 +50,21 @@
     background-color: #eee; /* Add a hover effect to all links, except for headers */
 }
 
-#hiddenContent {
+#labelFontSize {
+    font-size: 20px;
+}
+
+/* Brown Sugar Latte */
+#hiddenContent1 {
     display: none;
     margin-top: 50px;
     margin-left: 30px;
 }
 
-#labelFontSize {
-    font-size: 20px;
+/* Brown Sugar Oat Latte */
+#hiddenContent2 {
+    display: none;
+    margin-top: 50px;
+    margin-left: 30px;
 }
+

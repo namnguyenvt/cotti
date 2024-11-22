@@ -144,6 +144,34 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log(ingredientListString[j], ingredientList[i]);
         }
     });
+
+    // Show Brown Sugar Latte Content
+    const brownSugarLatte = document.getElementById('brownSugarLatte');
+    const showBrownSugarLatte = document.getElementById('hiddenContent1');
+
+    // Add a click event listener to the button
+    brownSugarLatte.addEventListener('click', () => {
+        // Toggle the display property
+        if (showBrownSugarLatte.style.display === 'none' || showBrownSugarLatte.style.display === '') {
+            showBrownSugarLatte.style.display = 'block';
+        } else {
+            showBrownSugarLatte.style.display = 'none';
+        }
+    });
+
+    // Show Brown Sugar Oat Latte Content
+    const brownSugarOatLatte = document.getElementById('brownSugarOatLatte');
+    const showBrownSugarOatLatte = document.getElementById('hiddenContent2');
+
+    // Add a click event listener to the button
+    brownSugarOatLatte.addEventListener('click', () => {
+        // Toggle the display property
+        if (showBrownSugarOatLatte.style.display === 'none' || showBrownSugarOatLatte.style.display === '') {
+            showBrownSugarOatLatte.style.display = 'block';
+        } else {
+            showBrownSugarOatLatte.style.display = 'none';
+        }
+    });
 });
 
 function searchableList() {

@@ -18,116 +18,133 @@
                 <input type="text" id="searchBox" onkeyup="searchableList()" placeholder="Search for drinks..">
                 <br>
                 <ul id="drinkList">
-                    <li><button for="drinks">Brown Sugar Latte</button></li>
-                    <li><button for="drinks">Brown Sugar Oat Latte</button></li>
-                    <li><button for="drinks">Brown Sugar Oat Milk</button></li>
-                    <li><button for="drinks">Brown Sugar Oolong Oat Latte</button></li>
-                    <li><button for="drinks">Cafe Latte</button></li>
-                    <li><button for="drinks">Cappuccino</button></li>
-                    <li><button for="drinks">Chocolate</button></li>
-                    <li><button for="drinks">Chocolate Frappe</button></li>                
-                    <li><button for="drinks">Coconut Americano</button></li>           
-                    <li><button for="drinks">Coco Jasmine Milk Tea</button></li>
-                    <li><button for="drinks">Coco Oolong Milk Tea</button></li>                    
-                    <li><button for="drinks">Coco Pearl</button></li>
-                    <li><button for="drinks">Coconut Dirty</button></li>
-                    <li><button for="drinks">Coconut Latte</button></li>
-                    <li><button for="drinks">Crema Cotti</button></li>
-                    <li><button for="drinks">Extra Shot Long Black (Dark Roast)</button></li>
-                    <li><button for="drinks">Extra Shot Long Black (Medium Roast)</button></li>
-                    <li><button for="drinks">Flat White</button></li>
-                    <li><button for="drinks">Long Black (Dark Roast)</button></li>
-                    <li><button for="drinks">Long Black (Medium Roast)</button></li>
-                    <li><button for="drinks">Matcha Jasmine Frappe</button></li>
-                    <li><button for="drinks">Matcha Coconut Latte</button></li>
-                    <li><button for="drinks">Matcha Latte</button></li>
-                    <li><button for="drinks">Matcha Oat Latte</button></li>
-                    <li><button for="drinks">Matcha Rice Latte</button></li>
-                    <li><button for="drinks">Mocha</button></li>
-                    <li><button for="drinks">Mocha Frappe</button></li>
-                    <li><button for="drinks">Oat Latte</button></li>
-                    <li><button for="drinks">Oolong Milk Tea</button></li>
-                    <li><button for="drinks">Oolong Rice Milk Tea</button></li>
-                    <li><button for="drinks">Pampas Blue Coconut Frappe</button></li>
-                    <li><button for="drinks">Pampas Blue Jasmine Crema Cotti</button></li>
-                    <li><button for="drinks">Pampas Blue Coconut Latte</button></li>
-                    <li><button for="drinks">Rice Milk Latte - Coco</button></li>
-                    <li><button for="drinks">Rice Milk Latte - Original</button></li>
-                    <li><button for="drinks">Rich Milk</button></li>
-                    <li><button for="drinks">Stardust Crema Cotti</button></li>
-                    <li><button for="drinks">Stardust Oat Latte</button></li>
-                    <li><button for="drinks">Stardust Oolong Milk Tea</button></li>
-                    <li><button for="drinks">Vanilla Latte</button></li>
-                    <li><button for="drinks">Ice Shaken <Strong><i>Red</i></Strong> Grapefruit Tea</button></li>
-                    <li><button for="drinks">Ice Shaken <Strong><i>White</i></Strong> Grapefruit Tea</button></li>
-                    <li><button for="drinks"><Strong><i>White</i></Strong> Grapefruit Americano</button></li>
-                    <li><button for="drinks"><Strong><i>Red</i></Strong> Grapefruit Americano</button></li>
-                    <li><button for="drinks"><Strong><i>White</i></Strong> Grapefruit Sparkling Cold Brew</button></li>
-                    <li><button for="drinks"><Strong><i>Red</i></Strong> Grapefruit Sparkling Cold Brew</button></li>
-                    <li><button for="drinks"><Strong><i>White</i></Strong> Grapefruit Jasmine Frappe</button></li>
-                    <li><button for="drinks"><Strong><i>Red</i></Strong> Grapefruit Jasmine Frappe</button></li>
-                    <li><button for="drinks">Orange Americano</button></li>
-                    <li><button for="drinks">Orange Sparkling Cold Brew</button></li>
-                    <li><button for="drinks">Ice Shaken Orange Tea</button></li>
-                    <li><button for="drinks">Passion Fruit and <Strong><i>White</i></Strong> Grapefruit Tea</button></li>
-                    <li><button for="drinks">Passion Fruit and <Strong><i>Red</i></Strong> Grapefruit Tea</button></li>
-                    <li><button for="drinks">Passion Fruit and <Strong><i>White</i></Strong> Grapefruit Frappe</button></li>
+                    <li><button for="drinks" id="brownSugarLatte">Brown Sugar Latte</button></li>
+                    <li><button for="drinks" id="brownSugarOatLatte">Brown Sugar Oat Latte</button></li>
+                    <li><button for="drinks" id="brownSugarOatMilk">Brown Sugar Oat Milk</button></li>
+                    <li><button for="drinks" id="brownSugarOolongOatLatte">Brown Sugar Oolong Oat Latte</button></li>
+                    <li><button for="drinks" id="cafeLatte">Cafe Latte</button></li>
+                    <li><button for="drinks" id="cap">Cappuccino</button></li>
+                    <li><button for="drinks" id="chocolate">Chocolate</button></li>
+                    <li><button for="drinks" id="chocFrappe">Chocolate Frappe</button></li>                
+                    <li><button for="drinks" id="cocoAmericano">Coconut Americano</button></li>           
+                    <li><button for="drinks" id="cocoJasMilkTea">Coco Jasmine Milk Tea</button></li>
+                    <li><button for="drinks" id="cocoOolongMilkTea">Coco Oolong Milk Tea</button></li>                    
+                    <li><button for="drinks" id="cocoPearl">Coco Pearl</button></li>
+                    <li><button for="drinks" id="cocoDirty">Coconut Dirty</button></li>
+                    <li><button for="drinks" id="cocoLatte">Coconut Latte</button></li>
+                    <li><button for="drinks" id="cremaCotti">Crema Cotti</button></li>
+                    <li><button for="drinks" id="extraShotLongBlackSirius">Extra Shot Long Black (Dark Roast)</button></li>
+                    <li><button for="drinks" id="extraShotLongBlackComet">Extra Shot Long Black (Medium Roast)</button></li>
+                    <li><button for="drinks" id="flatWhite">Flat White</button></li>
+                    <li><button for="drinks" id="longBlackSirius">Long Black (Dark Roast)</button></li>
+                    <li><button for="drinks" id="longBlackComet">Long Black (Medium Roast)</button></li>
+                    <li><button for="drinks" id="matchaJasFrappe">Matcha Jasmine Frappe</button></li>
+                    <li><button for="drinks" id="matchaCocoLatte">Matcha Coconut Latte</button></li>
+                    <li><button for="drinks" id="matchaLatte">Matcha Latte</button></li>
+                    <li><button for="drinks" id="matchaOatLatte">Matcha Oat Latte</button></li>
+                    <li><button for="drinks" id="matchaRiceLatte">Matcha Rice Latte</button></li>
+                    <li><button for="drinks" id="mocha">Mocha</button></li>
+                    <li><button for="drinks" id="mochaFrappe">Mocha Frappe</button></li>
+                    <li><button for="drinks" id="oatLatte">Oat Latte</button></li>
+                    <li><button for="drinks" id="oolongMilkTea">Oolong Milk Tea</button></li>
+                    <li><button for="drinks" id="oolongRiceMilkTea">Oolong Rice Milk Tea</button></li>
+                    <li><button for="drinks" id="pampasBlueFrappe">Pampas Blue Coconut Frappe</button></li>
+                    <li><button for="drinks" id="pampasBlueCrema">Pampas Blue Jasmine Crema Cotti</button></li>
+                    <li><button for="drinks" id="pampasBlueLatte">Pampas Blue Coconut Latte</button></li>
+                    <li><button for="drinks" id="riceLatteCoco">Rice Milk Latte - Coco</button></li>
+                    <li><button for="drinks" id="riceLatte">Rice Milk Latte - Original</button></li>
+                    <li><button for="drinks" id="richMilk">Rich Milk</button></li>
+                    <li><button for="drinks" id="stardustCrema">Stardust Crema Cotti</button></li>
+                    <li><button for="drinks" id="stardustOat">Stardust Oat Latte</button></li>
+                    <li><button for="drinks" id="stardustOolong">Stardust Oolong Milk Tea</button></li>
+                    <li><button for="drinks" id="vanillaLatte">Vanilla Latte</button></li>
+                    <li><button for="drinks" id="redGrapefruitTea">Ice Shaken <Strong><i>Red</i></Strong> Grapefruit Tea</button></li>
+                    <li><button for="drinks" id="whiteGrapefruitTea">Ice Shaken <Strong><i>White</i></Strong> Grapefruit Tea</button></li>
+                    <li><button for="drinks" id="whiteGrapefruitAmericano"><Strong><i>White</i></Strong> Grapefruit Americano</button></li>
+                    <li><button for="drinks" id="redGrapefruitAmericano"><Strong><i>Red</i></Strong> Grapefruit Americano</button></li>
+                    <li><button for="drinks" id="whiteGrapefruitSparkling"><Strong><i>White</i></Strong> Grapefruit Sparkling Cold Brew</button></li>
+                    <li><button for="drinks" id="redGrapefruitSparkling"><Strong><i>Red</i></Strong> Grapefruit Sparkling Cold Brew</button></li>
+                    <li><button for="drinks" id="whiteGrapefruitFrappe"><Strong><i>White</i></Strong> Grapefruit Jasmine Frappe</button></li>
+                    <li><button for="drinks" id="redGrapefruitFrappe"><Strong><i>Red</i></Strong> Grapefruit Jasmine Frappe</button></li>
+                    <li><button for="drinks" id="orangeAmericano">Orange Americano</button></li>
+                    <li><button for="drinks" id="orangeSparkling">Orange Sparkling Cold Brew</button></li>
+                    <li><button for="drinks" id="orangeTea">Ice Shaken Orange Tea</button></li>
+                    <li><button for="drinks" id="passionFruitWhiteTea">Passion Fruit and <Strong><i>White</i></Strong> Grapefruit Tea</button></li>
+                    <li><button for="drinks" id="passionFruitRedTea">Passion Fruit and <Strong><i>Red</i></Strong> Grapefruit Tea</button></li>
+                    <li><button for="drinks" id="passionFruitWhiteFrappe">Passion Fruit and <Strong><i>White</i></Strong> Grapefruit Frappe</button></li>
                 </ul>
             </div>
             <div class="middle-side">
-                <div id="hiddenContent">
+                <div id="hiddenContent1">
                     <label for="drinks" id="labelFontSize">Brown Sugar Latte</label>
                     <br>
                     <br>
+                    <label>Temperature</label>
                     <select>
                         <option value="ice">Ice</option>
                         <option value="hot">Hot</option>
                     </select>
+                    <br>
+                    <br>
+                    <label>Sugar</label>
+                    <select>
+                        <option value="full" selected="selected">Full</option>
+                        <option value="half">Half</option>
+                    </select>
+                    <br>
+                    <br>
+                    <label>Quantity</label>
+                    <input type="number" min="0" max="100">
+                    <br>
+                    <br>
+                    <input type="submit">
                 </div>
-                <div id="hiddenContent">
+                <div id="hiddenContent2">
                     <label for="drinks" id="labelFontSize">Brown Sugar Oat Latte</label>
                     <br>
                     <br>
+                    <label>Temperature</label>
                     <select>
                         <option value="ice">Ice</option>
                         <option value="hot">Hot</option>
                     </select>
+                    <br>
+                    <br>
+                    <label>Sugar</label>
+                    <select>
+                        <option value="full" selected="selected">Full</option>
+                        <option value="half">Half</option>
+                    </select>
+                    <br>
+                    <br>
+                    <label>Quantity</label>
+                    <input type="number" min="0" max="100">
+                    <br>
+                    <br>
+                    <input type="submit">
                 </div>
-                <div id="hiddenContent">
-                    <label for="drinks" id="labelFontSize">Brown Sugar Latte</label>
+                <div id="hiddenContent3">
+                    <label for="drinks" id="labelFontSize">Brown Sugar Oat Milk</label>
                     <br>
                     <br>
+                    <label>Temperature</label>
                     <select>
-                        <option value="ice">Ice</option>
-                        <option value="hot">Hot</option>
+                        <option value="hot" selected="selected">Hot</option>
                     </select>
-                </div>
-                <div id="hiddenContent">
-                    <label for="drinks" id="labelFontSize">Brown Sugar Latte</label>
                     <br>
                     <br>
+                    <label>Sugar</label>
                     <select>
-                        <option value="ice">Ice</option>
-                        <option value="hot">Hot</option>
+                        <option value="full" selected="selected">Full</option>
+                        <option value="half">Half</option>
                     </select>
-                </div>
-                <div id="hiddenContent">
-                    <label for="drinks" id="labelFontSize">Brown Sugar Latte</label>
                     <br>
                     <br>
-                    <select>
-                        <option value="ice">Ice</option>
-                        <option value="hot">Hot</option>
-                    </select>
-                </div>
-                <div id="hiddenContent">
-                    <label for="drinks" id="labelFontSize">Brown Sugar Latte</label>
+                    <label>Quantity</label>
+                    <input type="number" min="0" max="100">
                     <br>
                     <br>
-                    <select>
-                        <option value="ice">Ice</option>
-                        <option value="hot">Hot</option>
-                    </select>
+                    <input type="submit">
                 </div>
             </div>
             <div class="right-side">
