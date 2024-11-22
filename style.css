@@ -11,6 +11,7 @@
 
 .right-side {
     flex: 1;
+    margin-top: 50px;
 }
 
 .middle-side {
@@ -47,4 +48,14 @@
 
 #drinkList li a:hover:not(.header) { 
     background-color: #eee; /* Add a hover effect to all links, except for headers */
+}
+
+#hiddenContent {
+    display: none;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+#labelFontSize {
+    font-size: 20px;
 }
