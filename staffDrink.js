@@ -172,6 +172,20 @@ document.addEventListener('DOMContentLoaded', function() {
             showBrownSugarOatLatte.style.display = 'none';
         }
     });
+
+    // Show Brown Sugar Oat Latte Content
+    const brownSugarOatMilk = document.getElementById('brownSugarOatMilk');
+    const showBrownSugarOatMilk = document.getElementById('hiddenContent3');
+
+    // Add a click event listener to the button
+    brownSugarOatMilk.addEventListener('click', () => {
+        // Toggle the display property
+        if (showBrownSugarOatMilk.style.display === 'none' || showBrownSugarOatMilk.style.display === '') {
+            showBrownSugarOatMilk.style.display = 'block';
+        } else {
+            showBrownSugarOatMilk.style.display = 'none';
+        }
+    });
 });
 
 function searchableList() {
